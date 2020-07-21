@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d205bc8c-17a0-4a91-b637-f1dd0cbd868a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ypjalt/hdfs/HdfsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/ypjalt/hdfs/HdfsClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ypjalt/mr/table/Distributedcache/DistributedCacheMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/ypjalt/mr/table/Distributedcache/DistributedCacheMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ypjalt/hdfs/HdfsClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/ypjalt/hdfs/HdfsClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-    </list>
+    <list default="true" id="d205bc8c-17a0-4a91-b637-f1dd0cbd868a" name="Default Changelist" comment="Bump log4j-core from 2.8.2 to 2.13.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,25 +177,62 @@
       <workItem from="1589860699013" duration="277000" />
       <workItem from="1589885654019" duration="16000" />
       <workItem from="1591522438482" duration="18000" />
-      <workItem from="1595347727410" duration="323000" />
+      <workItem from="1595347727410" duration="690000" />
     </task>
+    <task id="LOCAL-00001" summary="Bump log4j-core from 2.8.2 to 2.13.3">
+      <created>1595348249687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595348249687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bump log4j-core from 2.8.2 to 2.13.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bump log4j-core from 2.8.2 to 2.13.3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="128" y="0" key="#项目结构" timestamp="1589860897466">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="128" y="0" key="#项目结构/0.0.1280.800@0.0.1280.800" timestamp="1589860897466" />
-    <state x="217" y="23" width="846" height="738" key="CommitChangelistDialog2" timestamp="1595348233645">
+    <state x="217" y="23" width="846" height="738" key="CommitChangelistDialog2" timestamp="1595348436656">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="217" y="23" width="846" height="738" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1595348233645" />
+    <state x="217" y="23" width="846" height="738" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1595348436656" />
     <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1595348042686">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1595348042686" />
+    <state x="428" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595348551980">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="428" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1595348551980" />
   </component>
 </project>
