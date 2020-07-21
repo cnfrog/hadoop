@@ -14,10 +14,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class DistributedCacheMapper extends Mapper<LongWritable, Text, Text, NullWritable> {
-    Map<String, String> pdMap = new HashMap<>();
+    Map<String, String> pdMap = new HashMap<String, String>();
 
     @Override
-    protected void setup(Context context) throws IOException, InterruptedException {
+    protected void setup(Context context) throws IOException {
         // 1 获取缓存的文件
         BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("pd.txt"), "UTF-8"));
 

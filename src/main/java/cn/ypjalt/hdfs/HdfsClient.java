@@ -18,7 +18,8 @@ public class HdfsClient {
         // 配置在集群上运行
 //        conf.set("fs.defaultFS","hdfs://hadoop102:9000");
 //        FileSystem fs = FileSystem.get(conf);
-        FileSystem fs = FileSystem.get(new URI("hdfs://hadoop102:9000"), conf, "hadoop");
+        FileSystem fs = FileSystem.get(new URI("hdfs://hadoop001:9000"), conf,
+                "hadoop");
         // 2.创建目录
         fs.mkdirs(new Path("/user/hadoop"));
         // 3.关闭资源
